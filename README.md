@@ -1,5 +1,8 @@
 # Spm-Whatsapp
+<p align="center">
 
+  <a href="https://github.com/Dra-Ganzz"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Dong+^_^" alt="UwU">
+ 
 # `Install`
 
 ```
