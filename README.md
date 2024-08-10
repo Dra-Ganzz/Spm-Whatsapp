@@ -14,3 +14,8 @@ git clone https://github.com/Dra-Ganzz/Spm-Whatsapp
 cd Spm-Whatsapp
 pip install -r requirements.txt
 python run.py
+```
+
+`Tutorial Videos Klik Logo Yt`
+
+[![](https://img.shields.io/badge/Tutorial-white?logo=YouTube&logoColor=Brighred&labelColor=red)](https://youtu.be/qfiNH18VkC8?si=PTTaI20fW-g0Te4B) `<-- klik caranya`
