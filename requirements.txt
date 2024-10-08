@@ -7,4 +7,5 @@ fake_useragent
 datetime
 pycryptodome
 inquirer
+pypasser
 sh
