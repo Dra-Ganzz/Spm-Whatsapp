@@ -7,7 +7,7 @@
 
    <a href="https://github.com/Dra-Ganzz"><img src="http://readme-typing-svg.herokuapp.com?color=FFD700&center=true&vCenter=true&multiline=false&lines=Duar+Follow+github+Vindra+Ganzz+Dong+^_^" alt="UwU">
  
-# `Install Script`
+# `Install Termux`
 
 ```python
 pkg update && pkg upgrade
@@ -27,6 +27,18 @@ cd Spm-Whatsapp
 ls
 git pull
 python run.py
+```
+
+# `Install Linux`
+```python
+sudo apt update
+sudo apt upgrade
+sudo apt install git
+sudo apt install python3-pip
+git clone https://github.com/Dra-Ganzz/Spm-Whatsapp
+cd Spm-whatsapp
+pip install -r requirements.txt
+python3 run.py
 ```
 
 `Tutorial Videos Klik Logo Yt`
