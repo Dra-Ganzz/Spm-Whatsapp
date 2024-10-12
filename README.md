@@ -33,12 +33,14 @@ python run.py
 ```python
 sudo apt update
 sudo apt upgrade
-sudo apt install git
+sudo apt install git jq nodejs
 sudo apt install python3-pip
-git clone https://github.com/Dra-Ganzz/Spm-Whatsapp
-cd Spm-whatsapp
+pip install rich
+pip install rich-cli
+git clone https://github.com/Dra-Ganzz/Spm-whatsapp 
+cd Spm-whatsapp 
 pip install -r requirements.txt
-python3 run.py
+python run.py
 ```
 
 `Tutorial Videos Klik Logo Yt`
