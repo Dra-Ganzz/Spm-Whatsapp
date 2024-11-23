@@ -1,4 +1,5 @@
-
+# إنه مبرمج، فقط استخدمه، ما مدى صعوبة الأمر مع كل الخنازير
+# الحد الأدنى من النص المرسل
 import base64
 fake_var1 = 'U3RhcnQgVGhpcyBvYnNjdXJlIGlzIGNvbW1vbml0eSBmZWF0dXJl'
 fake_var2 = 'c3RyaW5nLCBhbmQgaXQgY2Fubm90IGJlIHVzZWQgZnJvbSBkZWFsaW5nIGVuY3J5cH'
